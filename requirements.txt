@@ -1,0 +1,9 @@
+# Analysis and figures. Pinned loosely; any recent version reproduces the numbers.
+numpy>=1.24
+pandas>=2.0
+statsmodels>=0.14      # mixed_effects.py only
+matplotlib>=3.7        # make_figures.py only
+
+# Retrieval. Needed only to re-run the search step, not to re-derive the
+# reported numbers from the released verdicts.
+# sentence-transformers>=2.6

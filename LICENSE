@@ -1,0 +1,15 @@
+This repository carries two licenses, because the two kinds of content carry
+different constraints. Neither file supersedes the other; each governs the
+directories named below.
+
+  code/                                    MIT              see LICENSE-code
+  sample_qa/  eval_questions/  verdicts/   CC BY-NC 4.0     see LICENSE-data
+
+The sessions behind the released samples come from service data where speakers
+consented to research and non-commercial use. The non-commercial term on the
+data follows that consent. It is not an open-source license and not an open-data
+license, and we do not describe it as one.
+
+The analysis code carries no such constraint and is MIT.
+
+Copyright (c) 2026 The Authors.
